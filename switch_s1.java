@@ -4,7 +4,7 @@ public class switch_s1 {
     public static void main(String[] args) {
 
         try (Scanner s1 = new Scanner(System.in)) {
-            System.out.println("Enter a number 1 or 2");
+            System.out.println("Enter a number 1");
             int a = s1.nextInt();
 
             switch (a){
